@@ -1,5 +1,5 @@
 ## Description of the folder
-This folder includes a total of four python files. One file is for feature selection and three files are for modeling different types of trips.
+This folder includes a total of ten python files. One file is for feature selection and three files are for modeling different types of trips.
 
 ## Description of each file
 * Step_6: selecting features for predicting each type of trip based on the F-test
